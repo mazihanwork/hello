@@ -6,4 +6,6 @@ some change
 
 changes from test-branch
 
-# master branch
+# conflict
+
+# master
