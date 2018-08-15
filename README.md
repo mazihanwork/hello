@@ -9,3 +9,7 @@ changes from test-branch
 # conflict
 
 # master
+
+# local repository content
+
+first sentence.
