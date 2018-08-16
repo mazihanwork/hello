@@ -11,5 +11,5 @@ changes from test-branch
 # master
 
 # local repository content
-ccc
+
 first sentence.
